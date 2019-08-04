@@ -1,0 +1,14 @@
+{
+  "name": "welcomebot-master",
+  "version": "1.0.0",
+  "description": "A simple bot that welcomes new users to your Discord server. It also says goodbye to users that eventually leave.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
